@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,oBAAqB,CACrB,4BAA8B","file":"main.645f9ff3.chunk.css","sourcesContent":[".active {\n  text-decoration: none;\n  border-bottom: 1px solid black;\n}\n"]}
